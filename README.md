@@ -4,7 +4,7 @@
 Дальнейшее стырено у Ивана Александровича из репозитория по переводу "Fundamental astronomy", потом переделаю, пока ознакомьтесь в общих чертах.
 
 ## Алгоритм
-1. [Выберите](https://docs.google.com/spreadsheets/d/19iCb3ufG86t3isn0FFBDblyh02fPc2GVYeRH6GWJE1U/edit?usp=sharing) главу и запишитесь.
+1. [Выберите](https://docs.google.com/spreadsheets/d/13H-AgzqxnyuHUmIGjQ35pF272_p3acfyDlD4H0aujOU/edit?usp=sharing) главу и запишитесь.
 2. Добавьте перевод первого раздела главы в файл `chapter/<название_главы>.tex` (обновите файл).
 3. Закоммитьте (загрузите) обновлённый файл главы.
    Включите название раздела в имя коммита.
